@@ -1,7 +1,8 @@
 void main() {
   String nome = "Fabio";
 
-  for (int i = 0; i < 5; i++) {
-    print(nome);
+  for (int i = 10; i > 0; i--) {
+    print("Valor de i = $i");
+    //print(nome);
   }
 }
