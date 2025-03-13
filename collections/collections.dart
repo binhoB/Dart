@@ -35,6 +35,10 @@ main() {
   ]; //iterate through listOfInts and append elements
   print(listOfStrings);
 
+  var nomes = <String>["Fabio", "Sergio"];
+
+  print(nomes);
+
   /* SETS */
 
   var halogens = {'fluorine', 'chlorine', 'bromine', 'iodine', 'astatine'};
